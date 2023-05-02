@@ -1,0 +1,10 @@
+O objetivo principal deste projeto foi aprimorar minhas habilidades em HTML5 e CSS3, bem como aprender a desenvolver uma página responsiva. 
+Além disso, o site foi idealizado para ser uma landing page simples que pudesse mostrar seus conhecimentos em design.
+
+A página foi projetada para vender acessórios de computadores, como mouses, teclados, placas gráficas e gamepads. 
+Para isso, foram utilizadas técnicas simples de design, com um esquema de cores agradável e fácil de ler.
+
+Vale ressaltar que a página é meramente decorativa, e alguns botões e âncoras foram adicionados apenas para fins estéticos. 
+O foco principal é realmente nas habilidades de HTML5 e CSS3.
+
+Data de finalização: 14/03/2023
